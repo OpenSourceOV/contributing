@@ -18,13 +18,13 @@ Git is very powerful, but has a steep learning curve, and is not particulary use
 
 There are three ways you can submit changes and new files to the repositories:
 
-1. Email them to updates@opensourceov.org - by far the easiest option. More details below.
+1. Email them to christopher.lucani@utas.edu.au - by far the easiest option. More details below.
 2. For simple changes to single files you can [use the Github interface](#quick-editing-a-single-file-on-github).
 3. Use git [via the command line](#using-git-via-the-command-line)
 
-### Emailing updates to updates@opensourceov.org
+### Emailing updates
 
-You can email anything but if there are changes to specific files then download the relevant respository from Github (see Downloading Repositories for details), make the changes as required, then compress the folder using zip or rar (or whatever), and email the compressed archive to updates@opensourceov.org with some details about what you're submitting. 
+You can email anything but if there are changes to specific files then download the relevant respository from Github (see Downloading Repositories for details), make the changes as required, then compress the folder using zip or rar (or whatever), and email the compressed archive to christopher.lucani@utas.edu.au with some details about what you're submitting. 
 
 ### Quick editing a *single* file on Github
 
